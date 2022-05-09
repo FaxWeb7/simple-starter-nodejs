@@ -1,10 +1,13 @@
 # Simple starter
 
-### clone: git clone https://github.com/Artemka0-7/SimpleStarter-Node.js
-<!-- В данном видеокурсе мы с вами рассмотрим Node.js, серверную технологию которая позволяет исполнять код написанный на JavaScript вне браузера. Разберём базовые концепции и встроенные модули, которые активно используются при разработке сервера. Рассмотрим механизм коммуникаций между сервером и браузером. Создадим базовый роутинг на чистом Node.js. Подключем Express и перепишем роутер. Научимся работать с динамичными данными с помощью шаблонизатора Node.js. Напишем новостное приложение с поддержкой CRUD операций и хранением данных в MongoDB. Создадим свой API по возврату данных из БД. И в заключение, загрузим готовое приложение на Heroku.
+### Clone Starter:
+- Clone repository: `git clone https://github.com/Artemka0-7/SimpleStarter-Node.js.git`
+
+<!-- ### clone: git clone https://github.com/Artemka0-7/SimpleStarter-Node.js
+В данном видеокурсе мы с вами рассмотрим Node.js, серверную технологию которая позволяет исполнять код написанный на JavaScript вне браузера. Разберём базовые концепции и встроенные модули, которые активно используются при разработке сервера. Рассмотрим механизм коммуникаций между сервером и браузером. Создадим базовый роутинг на чистом Node.js. Подключем Express и перепишем роутер. Научимся работать с динамичными данными с помощью шаблонизатора Node.js. Напишем новостное приложение с поддержкой CRUD операций и хранением данных в MongoDB. Создадим свой API по возврату данных из БД. И в заключение, загрузим готовое приложение на Heroku.
 
 ### Поддержать развитие канала:
-[<img alt="webDev | YouTube Sponsor" src="https://img.shields.io/badge/Become a sponsor-F70000.svg?&style=for-the-badge&logo=youtube&logoColor=fff" />][sponsor] 
+[<img alt="webDev | YouTube Sponsor" src="https://img.shields.io/badge/Become a sponsor-F70000.svg?&style=for-the-badge&logo=youtube&logoColor=fff" />][sponsor]
 [<img alt="webDev | Patreon" src="https://img.shields.io/badge/Become a patron-EF6451.svg?&style=for-the-badge&logo=patreon&logoColor=fff" />][patron]
 
 ---
@@ -33,8 +36,8 @@
 
 ---
 
-### Быстрый старт:
-- Клонируйте репозиторий: `git clone https://github.com/YauhenKavalchuk/node-js.git`
+### Clone Starter:
+- Clone repository: `git clone https://github.com/YauhenKavalchuk/node-js.git`
 - Перейдите в папку с проектом: `cd node-js`
 - Перейдите в нужную ветку соответствующую уроку:
   - `git checkout lesson_01`
